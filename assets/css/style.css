@@ -99,23 +99,7 @@ body {
     max-width: 150px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.social-media-marketing {
+section {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
