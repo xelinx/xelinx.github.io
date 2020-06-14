@@ -2,38 +2,34 @@
 
 # 01 HTML CSS Git: Code Refactor
 
-One of the most common tasks for front-end and junior developers is to take existing code and refactor it to either meet a certain set of standards or implement a new technology. Web accessibility is an increasingly important consideration for businesses, ensuring that people with disabilities or socio-economic restrictions have access to their website, and helping them avoid litigation.
+A refactor of an existing webpage to make it more accessible, and to organize and consolidate both HTML and CSS code.
 
-Your task is to refactor an existing webpage to make it accessible. An important rule to follow when working with someone else's code is the Scout Rule:
+The goal of refactoring an existing webpage is to practice working with HTML and CSS style sheets. In the professional world, developers will work on adding to and cleaning the pre-existing code of the company they are employed at.
 
-> Always leave the code you are editing a little cleaner than you found it.
+In this refactor, I made it my goal to get rid of as many <div></div> tags as possible and replace it with a more appropriate tag. This streamlines and clearly defines the content of the webpage. Both making the webpage more accessible for screenreaders as well as speed up the loading time. I also made it my goal to shrink down the size of the CSS style sheet as much as I could. 
 
-To impress clients, you should always go the extra mile and improve their codebase for long term sustainability. Ensure that all links are functioning correctly and clean up the CSS to make it more efficient, consolidating CSS selectors and properties, organizing them to follow the semantic structure of the HTML elements, and including comments before each element or section of the page.
+Doing this activity was very eye-opening. Even now as I write this README, I have already thought of several ideas that I could try to condense the HTML and CSS style sheets even more. (Whether the idea works or not is trial and error).
 
-## User Story
+All in all, this was a bit frustrating when things didn't mesh together or go the way I wanted or thought it would, but I still had fun refactoring the code and refreshing the page to see the changes.
 
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+## Screenshots of the Deployed Website
 
-## Acceptance Criteria
 
-```
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
-```
+## Review
+
+The following is submitted for review:
+
+* The URL of the deployed application.
+
+https://xelinx.github.io/
+
+* The URL of the GitHub repository which includes a README describing the project.
+
+https://github.com/xelinx/xelinx.github.io
 
 ## Credits (tutorials used)
+https://www.w3schools.com/html/html5_semantic_elements.asp
+https://csscreator.com/divitis
 
-## License
+- - -
+© 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
