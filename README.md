@@ -13,7 +13,9 @@ Doing this activity was very eye-opening. Even now as I write this README, I hav
 All in all, this was a bit frustrating when things didn't mesh together or go the way I wanted or thought it would, but I still had fun refactoring the code and refreshing the page to see the changes.
 
 ## Screenshots of the Deployed Website
-
+![deployed1](https://user-images.githubusercontent.com/66236313/84586094-1aee1b80-adcb-11ea-8100-8b133119033c.png)
+![deployed2](https://user-images.githubusercontent.com/66236313/84586096-1e81a280-adcb-11ea-9189-a28ae0b70b8f.png)
+![deployed3](https://user-images.githubusercontent.com/66236313/84586097-1f1a3900-adcb-11ea-98dd-da88a7d84691.png)
 
 ## Review
 
