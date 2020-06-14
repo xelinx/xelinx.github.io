@@ -70,6 +70,7 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
+    max-height: 200px;
 }
 
 .benefits {
@@ -131,34 +132,31 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization img {
+.search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    max-height: 200px;
 }
 
-.online-reputation-management img {
+.online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    max-height: 200px;
 }
 
-.social-media-marketing img{
+.social-media-marketing {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    max-height: 200px;
 }
 
 .search-engine-optimization h2 {
