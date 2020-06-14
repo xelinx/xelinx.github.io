@@ -20,7 +20,7 @@ body {
     font-size: 48px;
 }
 
-.seo {
+.header h1 .seo {
     color: #d9dcd6;
 }
 
@@ -70,7 +70,6 @@ p {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
-    max-height: 200px;
 }
 
 .benefits {
@@ -157,6 +156,18 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
+}
+
+.search-engine-optimization img {
+    max-height: 200px;
+}
+
+.online-reputation-management img {
+    max-height: 200px;
+}
+
+.social-media-marketing img {
+    max-height: 200px;
 }
 
 .search-engine-optimization h2 {
