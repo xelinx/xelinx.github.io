@@ -30,8 +30,8 @@ https://xelinx.github.io/
 https://github.com/xelinx/xelinx.github.io
 
 ## Credits (tutorials used)
-https://www.w3schools.com/html/html5_semantic_elements.asp
-https://csscreator.com/divitis
+HTML Semantic Elements https://www.w3schools.com/html/html5_semantic_elements.asp
+Divitis https://csscreator.com/divitis
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
